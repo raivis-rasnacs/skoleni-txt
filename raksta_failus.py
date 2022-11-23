@@ -1,5 +1,5 @@
 """
-Ieraksta projekta direktorijā sarakstus ar katras klases skolēniem, kas dosies ekskursijā
+Mapē /saraksti ieraksta sarakstus ar katras klases skolēniem, kas dosies ekskursijā
 """
 
 def raksta_failus(skoleni_pa_klasem: dict) -> None:
